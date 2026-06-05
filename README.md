@@ -21,8 +21,7 @@
   * https://www.youtube.com/watch?v=XCHKaSNjoak&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6&index=9
   * https://www.youtube.com/watch?v=KV0H3pWmU78&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6&index=10
   
-- Programación desde Cero con IA (YT)...
-  * https://www.youtube.com/watch?v=8b6KecIzcQA&t=2513s
+- ¡Curso de PROGRAMACIÓN desde Cero 2026! - Fundamentos de Programación y Lógica (YT)...
   * https://www.youtube.com/watch?v=V9D67se8FIk&list=PLt1J5u9LpM59b4WzNFhhuvhwZMleg8agD
   
 - Algoritmos y Resolución de Problemas (YT)....
@@ -43,15 +42,22 @@
   * https://www.youtube.com/watch?v=1frV9cIgAow&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=7
   * https://www.youtube.com/watch?v=NXDLOuIYdGo&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=8
 
+- Introducción a HTML, CSS, JavaScript ..
+  * https://www.udemy.com/course/curso-de-programacion-para-novatos-el-mas-facil-de-entender/
+ 
 
 ## **Introducción a la Programación con IA**
-- Conceptos Básicos de Programación Web (anaxia)....
-  <!--Elaborado en claude.ai y gemini.google.com-->
+
 - Curso Gratis de Programación Básica (Pz)##
   * https://platzi.com/cursos/programacion-basica/
  
-- Curso: Programación desde cero con Inteligencia Artificial
+- Curso: Programación desde cero con Inteligencia Artificial (Ed)
+  * https://www.youtube.com/watch?v=8b6KecIzcQA&t=2513s
   * https://ed.team/cursos/programacion
   
-- Introducción a HTML, CSS, JavaScript ..
-  * https://www.udemy.com/course/curso-de-programacion-para-novatos-el-mas-facil-de-entender/
+## **Fundamentos para Programación con IA**
+
+- Conceptos Básicos de Programación Web (anaxia)....
+  <!--Elaborado en claude.ai y gemini.google.com-->
+
+- 
