@@ -54,16 +54,30 @@
 - **Curso: Programación desde cero con Inteligencia Artificial (Ed)**
   * https://www.youtube.com/watch?v=8b6KecIzcQA&t=2513s
   * https://ed.team/cursos/programacion
+ 
+ 
+## **Fundamentos para la Programación con IA**
+
+- **Fundamentos de Ingeniería de Software**
+  * https://platzi.com/cursos/ingenieria/
+  * https://ed.team/cursos/tecnologia-programacion-2022
   
-## **Fundamentos para Programación con IA**
+- **Conceptos Básicos de Programación (anaxia)**....
+  <!--Elaborado en claude.ai y gemini.google.com-->
 
 - **Conceptos Básicos de Programación Web (anaxia)**....
   <!--Elaborado en claude.ai y gemini.google.com-->
 
+- **Conceptos Básicos de Programación de Apps (anaxia)**....
+  <!--Elaborado en claude.ai y gemini.google.com-->
+
 - **Introducción a HTML**
+  * Buenas prácticas en HTML (anaxia) <!--Elaborado en claude.ai y gemini.google.com-->
   * 
+ 
 - **Introducción a CSS**
 - **Introducción a JavaScript**
+- **Introducción a Bases de Datos**
 - **Introducción a Python**
 - **Introducción a java**
 - **Introducción a **
@@ -71,6 +85,29 @@
 - **Introducción a **
 
 
+## **Herramientas de Programación**
+- Bash y Zsh
+- VS Code
+- Git y GitHub
+- Docker
+  *
+
+## **Prompt Ingineering y Vibe Coding**
+- **Prompt Engineering**
+  *
+- **Vibe Coding**
+  *
+
+  
+## **Entornos y Agentes de Desarrollo con IA**
+
+- **Claude Code**
+- **OpenCode**
+- **Codex**
+- **Antigravity**
+- **Cursor**
+- **GitHub Copilot**
 
 
+## **Harness Engineering**
 
