@@ -51,7 +51,7 @@
 - **Curso Gratis de Programación Básica (Pz)**##
   * https://platzi.com/cursos/programacion-basica/
  
-- **Curso: Programación desde cero con Inteligencia Artificial (Ed)**
+- **Curso: Programación desde cero con Inteligencia Artificial (Ed)**##
   * https://www.youtube.com/watch?v=8b6KecIzcQA&t=2513s
   * https://ed.team/cursos/programacion
  
@@ -60,6 +60,7 @@
 
 - **Fundamentos de Ingeniería de Software**
   * https://platzi.com/cursos/ingenieria/
+  * https://ed.team/cursos/tecnologia-computadoras
   * https://ed.team/cursos/tecnologia-programacion-2022
   
 - **Conceptos Básicos de Programación (anaxia)**....
