@@ -114,16 +114,18 @@
   * https://ed.team/cursos/linux?source=web&section=chatEDT
   * 
 - **02. VS Code**
-  * 
-
+  *
+  * https://www.youtube.com/watch?v=Ei1y51K8jQk
 - **03. Git**
   * https://ed.team/cursos/git
   * 
 - **04. GitHub**
   * https://ed.team/cursos/github
+  * https://academia.holamundo.io/courses/ultimate-git
   * 
 - **05. Docker**
-  * 
+  *
+  * https://academia.holamundo.io/courses/ultimate-docker
 
 
 ## **Introducción a los Lenguajes para Programación**
@@ -132,18 +134,29 @@
   * Buenas prácticas en HTML (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
   * https://ed.team/cursos/html
+  * https://academia.holamundo.io/courses/html5-la-guia-completa
   * 
 - **02. Lenguaje de diseño gráfico CSS(Hojas de Estilo en Cascada)**
   * Buenas prácticas en CSS (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
   * https://ed.team/cursos/css
-  * 
+  * https://academia.holamundo.io/courses/css3-la-guia-completa
   * https://ed.team/cursos/chrome-devtools
-- **03. Introducción a JavaScript**
+  * 
+- **03. JavaScript**
   * Buenas prácticas en JavaScript (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
   * https://ed.team/cursos/javascript
+  * https://academia.holamundo.io/courses/ultimate-javascript
   * 
+- **TypeScript**
+  * https://academia.holamundo.io/courses/typescript-sin-fronteras
+  * 
+- **Biblioteca React**
+  * https://academia.holamundo.io/courses/ultimate-react
+  * 
+- **Framework Vue.js**
+  *
 - **Framework Astro.js**
   * https://ed.team/cursos/astro
   * 
@@ -153,26 +166,33 @@
 - **Framework Angular**
   * 
   * 
-- **Introducción a Bases de Datos**
+- **Entorno de Ejecución Node.js**
+  * 
+
+- ****
+  * - **Introducción a Bases de Datos**
   * Buenas prácticas en  (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
   * https://ed.team/cursos/sql
+  * https://academia.holamundo.io/courses/sql-sin-fronteras
   * https://ed.team/cursos/database-design
   * https://ed.team/cursos/mysql
   * https://ed.team/cursos/postgresql
   * https://ed.team/cursos/sql-server
   * https://ed.team/cursos/oracle
- 
+  * 
 - **Introducción a Python**
   * Buenas prácticas en Python (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
   * https://ed.team/cursos/python
+  * https://academia.holamundo.io/courses/ultimate-python
   * 
- 
 - **Introducción a java**
   * Buenas prácticas en java (anaxia)
     <!--Elaborado en claude.ai y gemini.google.com-->
   * https://ed.team/cursos/java
+  * https://academia.holamundo.io/courses/ultimate-java
+  * 
  
 - **Introducción a **
 - **Introducción a **
