@@ -114,18 +114,21 @@
 - **01. Linux**
   * https://ed.team/cursos/terminal-linux?source=web&section=chatEDT
   * https://ed.team/cursos/linux?source=web&section=chatEDT
-  * 
+  
 - **02. VS Code**
   *
   * https://www.youtube.com/watch?v=Ei1y51K8jQk
+
 - **03. Git**
   * https://ed.team/cursos/git
-  * 
+  
 - **04. GitHub**
   * https://ed.team/cursos/github
   * https://academia.holamundo.io/courses/ultimate-git
-  * 
-- **05. Docker**
+
+- **05. GitHub Copilot**
+  * https://ed.team/cursos/github-copilot
+- **06. Docker**
   *
   * https://academia.holamundo.io/courses/ultimate-docker
 
@@ -137,6 +140,7 @@
     <!--Elaborado en claude.ai y gemini.google.com-->
   * https://ed.team/cursos/html
   * https://academia.holamundo.io/courses/html5-la-guia-completa
+  * https://ed.team/cursos/pagina-web?source=web&section=chatEDT
   * 
 - **02. Lenguaje de diseño gráfico CSS(Hojas de Estilo en Cascada)**
   * Buenas prácticas en CSS (anaxia)
