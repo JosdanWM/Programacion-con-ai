@@ -57,7 +57,9 @@
 - **02. Curso: Programación desde cero con Inteligencia Artificial (Ed)**##
   * https://www.youtube.com/watch?v=8b6KecIzcQA&t=2513s
   * https://ed.team/cursos/programacion
-
+- **03. Mentalidad del Programador Moderno en la era dela IA**
+  * https://www.youtube.com/watch?v=Uc9OntGxn9A&t=92s #
+  * 72b709d5-957c-49e2-8294-8e4a995d5c22 
 
 ## **Fundamentos para la Programación con IA**
 
