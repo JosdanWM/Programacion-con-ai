@@ -67,7 +67,7 @@
   * https://platzi.com/cursos/ingenieria/
   * https://ed.team/cursos/tecnologia-computadoras #
   * https://ed.team/cursos/tecnologia-programacion-2022 #
-  * https://ed.team/cursos/web
+  * https://ed.team/cursos/web #
   * https://academia.holamundo.io/courses/computing-part-1
   * https://academia.holamundo.io/courses/introduccion-a-la-computacion-parte-2-software
   * Introducción a la computación parte 3 - Nivelación y preparación de ambiente
