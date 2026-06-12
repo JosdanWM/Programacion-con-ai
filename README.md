@@ -270,9 +270,14 @@
   
 ## **Herramientas Complementarias para la Programación con IA**
 
+- **Claude**
+  * https://anthropic.skilljar.com/claude-101
+  * 
+
 - **Cursor**
   * https://ed.team/cursos/cursor
-  * 
+  *
+  
 - **Claude Code**
   * https://ed.team/cursos/claude
   * https://cursos.devtalles.com/courses/take/claude-code-guia-completa/lessons/74802305-como-funcionara-el-curso
