@@ -51,13 +51,13 @@
 
 ## **Introducción a la Programación con IA**
 
-- **01. Curso Gratis de Programación Básica (Pz)**##
-  * https://platzi.com/cursos/programacion-basica/
- 
-- **02. Curso: Programación desde cero con Inteligencia Artificial (Ed)**##
+- **01. Programación Básica con IA**##
   * https://www.youtube.com/watch?v=8b6KecIzcQA&t=2513s
   * https://ed.team/cursos/programacion
-- **03. Mentalidad del Programador Moderno en la era dela IA**
+  * https://platzi.com/cursos/programacion-basica/
+  * https://ed.team/cursos/fullstack-ia
+ 
+- **03. Mentalidad del Programador con IA**
   * https://www.youtube.com/watch?v=Uc9OntGxn9A&t=92s #
   * 72b709d5-957c-49e2-8294-8e4a995d5c22 
 
