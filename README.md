@@ -20,13 +20,7 @@
   * https://www.youtube.com/watch?v=twRXsDm2FUo&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6&index=8
   * https://www.youtube.com/watch?v=XCHKaSNjoak&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6&index=9
   * https://www.youtube.com/watch?v=KV0H3pWmU78&list=PLPmRzmMDGerWEzjT0Vqy8D-IixKMY_6N6&index=10
-  
-- **04. Fundamentos y Lógica de Programación**...
-  * https://www.youtube.com/watch?v=RxO0XGjoPJA&t=457s
-  * https://www.youtube.com/watch?v=V9D67se8FIk&list=PLt1J5u9LpM59b4WzNFhhuvhwZMleg8agD
-  * https://www.youtube.com/watch?v=tIS-1PmHAkE&t=2883s
-  * https://todocodeacademy.com/course/introduccion-a-la-programacion/...
-  
+   
 - **05. Algoritmos y Resolución de Problemas**....
   * https://www.youtube.com/watch?v=H5L66Lx_TWU&list=PLmwzInHO45X5Ikb4Pq7jKxRIBsLNiLORQ&index=1
   * https://www.youtube.com/watch?v=NrOxXI72cIc
@@ -45,12 +39,21 @@
   * https://www.youtube.com/watch?v=1frV9cIgAow&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=7
   * https://www.youtube.com/watch?v=NXDLOuIYdGo&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=8
 
+- **04. Fundamentos y Lógica de Programación**...
+  * https://www.youtube.com/watch?v=RxO0XGjoPJA&t=457s
+  * https://www.youtube.com/watch?v=V9D67se8FIk&list=PLt1J5u9LpM59b4WzNFhhuvhwZMleg8agD
+  * https://www.youtube.com/watch?v=tIS-1PmHAkE&t=2883s
+  * https://todocodeacademy.com/course/introduccion-a-la-programacion/...
+
 - **07. Programación para principiantes**
+  * https://www.udemy.com/course/universidad-de-logica-de-programacion-python-java-javascript-c-pseint
+  * https://www.udemy.com/course/fundamentos-y-logica-de-programacion/?couponCode=PMNVD3025
+  * https://www.udemy.com/course/introduccion-a-la-programacion/?couponCode=PMNVD3025
   * https://www.udemy.com/course/programacion-para-principiantes
   * 
 - **08. Introducción a HTML, CSS, JavaScript** ..
   * https://www.udemy.com/course/curso-de-programacion-para-novatos-el-mas-facil-de-entender/
- 
+  * https://www.udemy.com/course/programacion-desarrollo-web/?couponCode=PMNVD3025
 
 ## **Introducción a la Programación con IA**
 
