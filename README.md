@@ -25,6 +25,7 @@
   * https://www.youtube.com/watch?v=RxO0XGjoPJA&t=457s
   * https://www.youtube.com/watch?v=V9D67se8FIk&list=PLt1J5u9LpM59b4WzNFhhuvhwZMleg8agD
   * https://www.youtube.com/watch?v=tIS-1PmHAkE&t=2883s
+  * https://todocodeacademy.com/course/introduccion-a-la-programacion/...
   
 - **05. Algoritmos y Resolución de Problemas**....
   * https://www.youtube.com/watch?v=H5L66Lx_TWU&list=PLmwzInHO45X5Ikb4Pq7jKxRIBsLNiLORQ&index=1
@@ -43,7 +44,6 @@
   * https://www.youtube.com/watch?v=jt-2IAUtmFE&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=6
   * https://www.youtube.com/watch?v=1frV9cIgAow&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=7
   * https://www.youtube.com/watch?v=NXDLOuIYdGo&list=PL46-B5QR6sHm_qTw3tet7XHynE8bEucoa&index=8
-  * https://todocodeacademy.com/course/introduccion-a-la-programacion/...
 
 - **07. Programación para principiantes**
   * https://www.udemy.com/course/programacion-para-principiantes
